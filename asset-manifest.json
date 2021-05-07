@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b7163b8.chunk.css",
-    "main.js": "/static/js/main.9b6d5cb8.chunk.js",
-    "main.js.map": "/static/js/main.9b6d5cb8.chunk.js.map",
+    "main.css": "/static/css/main.03194e5f.chunk.css",
+    "main.js": "/static/js/main.c2608fcb.chunk.js",
+    "main.js.map": "/static/js/main.c2608fcb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8784b2b8.js",
     "runtime-main.js.map": "/static/js/runtime-main.8784b2b8.js.map",
     "static/js/2.d0472b33.chunk.js": "/static/js/2.d0472b33.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.5521d2d8.chunk.js": "/static/js/3.5521d2d8.chunk.js",
     "static/js/3.5521d2d8.chunk.js.map": "/static/js/3.5521d2d8.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.5b7163b8.chunk.css.map": "/static/css/main.5b7163b8.chunk.css.map",
+    "static/css/main.03194e5f.chunk.css.map": "/static/css/main.03194e5f.chunk.css.map",
     "static/js/2.d0472b33.chunk.js.LICENSE.txt": "/static/js/2.d0472b33.chunk.js.LICENSE.txt",
     "static/media/american-football.7f2ef488.jpg": "/static/media/american-football.7f2ef488.jpg",
     "static/media/badge.dea56119.png": "/static/media/badge.dea56119.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.8784b2b8.js",
     "static/js/2.d0472b33.chunk.js",
-    "static/css/main.5b7163b8.chunk.css",
-    "static/js/main.9b6d5cb8.chunk.js"
+    "static/css/main.03194e5f.chunk.css",
+    "static/js/main.c2608fcb.chunk.js"
   ]
 }
