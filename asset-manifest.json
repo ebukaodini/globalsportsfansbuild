@@ -1,33 +1,29 @@
 {
   "files": {
     "main.css": "/static/css/main.03194e5f.chunk.css",
-    "main.js": "/static/js/main.47ea2bcd.chunk.js",
-    "main.js.map": "/static/js/main.47ea2bcd.chunk.js.map",
+    "main.js": "/static/js/main.afae34c3.chunk.js",
+    "main.js.map": "/static/js/main.afae34c3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8784b2b8.js",
     "runtime-main.js.map": "/static/js/runtime-main.8784b2b8.js.map",
-    "static/js/2.d0472b33.chunk.js": "/static/js/2.d0472b33.chunk.js",
-    "static/js/2.d0472b33.chunk.js.map": "/static/js/2.d0472b33.chunk.js.map",
+    "static/js/2.11de78f5.chunk.js": "/static/js/2.11de78f5.chunk.js",
+    "static/js/2.11de78f5.chunk.js.map": "/static/js/2.11de78f5.chunk.js.map",
     "static/js/3.5521d2d8.chunk.js": "/static/js/3.5521d2d8.chunk.js",
     "static/js/3.5521d2d8.chunk.js.map": "/static/js/3.5521d2d8.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.03194e5f.chunk.css.map": "/static/css/main.03194e5f.chunk.css.map",
-    "static/js/2.d0472b33.chunk.js.LICENSE.txt": "/static/js/2.d0472b33.chunk.js.LICENSE.txt",
-    "static/media/american-football.7f2ef488.jpg": "/static/media/american-football.7f2ef488.jpg",
+    "static/js/2.11de78f5.chunk.js.LICENSE.txt": "/static/js/2.11de78f5.chunk.js.LICENSE.txt",
     "static/media/badge.dea56119.png": "/static/media/badge.dea56119.png",
-    "static/media/basketball.cad61048.jpg": "/static/media/basketball.cad61048.jpg",
     "static/media/flutterwave.e8cd2d57.png": "/static/media/flutterwave.e8cd2d57.png",
     "static/media/football.7ce3a3dd.jpg": "/static/media/football.7ce3a3dd.jpg",
-    "static/media/logo_transparent.df22f5df.png": "/static/media/logo_transparent.df22f5df.png",
     "static/media/paystack.fb5a54ad.png": "/static/media/paystack.fb5a54ad.png",
     "static/media/race-track.25fabf06.jpg": "/static/media/race-track.25fabf06.jpg",
     "static/media/rugby.46be6f7b.jpg": "/static/media/rugby.46be6f7b.jpg",
-    "static/media/side.f7200635.jpg": "/static/media/side.f7200635.jpg",
     "static/media/tennis.e54bc66e.jpg": "/static/media/tennis.e54bc66e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8784b2b8.js",
-    "static/js/2.d0472b33.chunk.js",
+    "static/js/2.11de78f5.chunk.js",
     "static/css/main.03194e5f.chunk.css",
-    "static/js/main.47ea2bcd.chunk.js"
+    "static/js/main.afae34c3.chunk.js"
   ]
 }
